@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1525184122 source:d:\tubes stf\tubes_invest\invest_app\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"relasiList.h"
+	"menu.h"
+	"childList.h"
+
+1525325136 source:d:\tubes stf\tubes_invest\invest_app\parentlist.cpp
+	"parentList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1524927231 source:d:\tubes stf\tubes_invest\invest_app\childlist.cpp
+	"childList.h"
+
+1525183881 source:d:\tubes stf\tubes_invest\invest_app\relasilist.cpp
+	"relasiList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525144408 d:\tubes stf\tubes_invest\invest_app\parentlist.h
+	<iostream>
+
+1524927192 d:\tubes stf\tubes_invest\invest_app\childlist.h
+	<iostream>
+
+1525271597 d:\tubes stf\tubes_invest\invest_app\relasilist.h
+	"relasiList.h"
+	"childList.h"
+	"parentList.h"
+	<iostream>
+
+1525318529 d:\tubes stf\tubes_invest\invest_app\menu.h
+	"stdlib.h"
+	"conio.h"
+	"parentList.h"
+	"relasiList.h"
+	"childList.h"
+
+1525305530 source:d:\tubespohon-master\childlist.cpp
+	"childList.h"
+
+1525305530 d:\tubespohon-master\childlist.h
+	<iostream>
+
+1525305530 source:d:\tubespohon-master\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"relasiList.h"
+	"menu.h"
+	"childList.h"
+
+1525305530 d:\tubespohon-master\parentlist.h
+	<iostream>
+
+1525305530 d:\tubespohon-master\relasilist.h
+	"relasiList.h"
+	"childList.h"
+	"parentList.h"
+	<iostream>
+
+1525305530 d:\tubespohon-master\menu.h
+	"stdlib.h"
+	"conio.h"
+	"parentList.h"
+	"relasiList.h"
+	"childList.h"
+
+1525305530 source:d:\tubespohon-master\parentlist.cpp
+	"parentList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525305530 source:d:\tubespohon-master\relasilist.cpp
+	"relasiList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525305530 source:d:\dokumen dan tugas kuliah\c++\invest_app\childlist.cpp
+	"childList.h"
+
+1525305530 d:\dokumen dan tugas kuliah\c++\invest_app\childlist.h
+	<iostream>
+
+1525431439 source:d:\dokumen dan tugas kuliah\c++\invest_app\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"parentList.h"
+	"relasiList.h"
+	"menu.h"
+	"childList.h"
+
+1525420788 d:\dokumen dan tugas kuliah\c++\invest_app\parentlist.h
+	<iostream>
+
+1525431996 d:\dokumen dan tugas kuliah\c++\invest_app\relasilist.h
+	"relasiList.h"
+	"childList.h"
+	"parentList.h"
+	<iostream>
+
+1525436200 d:\dokumen dan tugas kuliah\c++\invest_app\menu.h
+	"stdlib.h"
+	"conio.h"
+	"parentList.h"
+	"relasiList.h"
+	"childList.h"
+
+1525420792 source:d:\dokumen dan tugas kuliah\c++\invest_app\parentlist.cpp
+	"parentList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
+1525432221 source:d:\dokumen dan tugas kuliah\c++\invest_app\relasilist.cpp
+	"relasiList.h"
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
